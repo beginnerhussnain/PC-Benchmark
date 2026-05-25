@@ -1,0 +1,24 @@
+{
+  "cpus": [
+    { "id": "c1", "name": "Ryzen 5 3600", "tier": 4, "brand": "AMD", "baseScore": 17800 },
+    { "id": "c2", "name": "Ryzen 7 5800X", "tier": 7, "brand": "AMD", "baseScore": 28000 },
+    { "id": "c3", "name": "Ryzen 9 7950X", "tier": 10, "brand": "AMD", "baseScore": 63000 },
+    { "id": "c4", "name": "Core i3-12100F", "tier": 3, "brand": "Intel", "baseScore": 14000 },
+    { "id": "c5", "name": "Core i5-13600K", "tier": 8, "brand": "Intel", "baseScore": 38000 },
+    { "id": "c6", "name": "Core i9-14900K", "tier": 10, "brand": "Intel", "baseScore": 60000 }
+  ],
+  "gpus": [
+    { "id": "g1", "name": "GTX 1650", "tier": 2, "brand": "NVIDIA", "baseScore": 3500 },
+    { "id": "g2", "name": "RTX 3060", "tier": 5, "brand": "NVIDIA", "baseScore": 8800 },
+    { "id": "g3", "name": "RTX 4090", "tier": 10, "brand": "NVIDIA", "baseScore": 36000 },
+    { "id": "g4", "name": "RX 6600", "tier": 4, "brand": "AMD", "baseScore": 8000 },
+    { "id": "g5", "name": "RX 7800 XT", "tier": 7, "brand": "AMD", "baseScore": 19000 },
+    { "id": "g6", "name": "RX 7900 XTX", "tier": 10, "brand": "AMD", "baseScore": 31000 }
+  ],
+  "ram": [
+    { "id": "r1", "size": "8GB", "brand": "Standard", "multiplier": 0.8 },
+    { "id": "r2", "size": "16GB", "brand": "Standard", "multiplier": 1.0 },
+    { "id": "r3", "size": "32GB", "brand": "Enthusiast", "multiplier": 1.05 },
+    { "id": "r4", "size": "64GB", "brand": "Enthusiast", "multiplier": 1.08 }
+  ]
+}
