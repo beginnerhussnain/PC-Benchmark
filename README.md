@@ -2,6 +2,37 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+
+# RigAI
+
+[![React Native](https://img.shields.io/badge/React_Native-Expo_Router-blue?logo=react&style=flat-square)](https://reactnative.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?logo=typescript&style=flat-square)](https://www.typescriptlang.org/)
+[![Supabase](https://img.shields.io/badge/Backend-Supabase-green?logo=supabase&style=flat-square)](https://supabase.com/)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
+
+RigAI is a mobile benchmarking and hardware analysis utility designed to assist PC builders, gamers, and developers in evaluating hardware performance. Built with React Native (Expo), TypeScript, and backed by Supabase, the application calculates synthetic benchmark projections, evaluates game compatibility thresholds, and determines system viability for running quantized local language models directly on mobile.
+
+---
+
+## Core Features
+
+* **Hardware Performance Projections:** Estimates synthetic performance metrics and identifies hardware balance across CPU and GPU pairings.
+* **Game Compatibility Assessment:** Evaluates target system configurations against game system requirements to project frame rate and resolution tiers.
+* **Local LLM Readiness Engine:** Analyzes VRAM capacity and system memory thresholds to check compatibility with open-source large language models (quantization tiers, context limits, and parameter scales).
+* **Cloud Database Integration:** Uses Supabase for storing and retrieving up-to-date component specifications and compatibility data.
+* **Modular Mobile Architecture:** Built on Expo Router with strict TypeScript typings and file-based navigation.
+
+---
+
+## Tech Stack
+
+* **Frontend Framework:** React Native, Expo, Expo Router
+* **Language:** TypeScript
+* **State Management:** Zustand
+* **Backend and Database:** Supabase (PostgreSQL)
+
+---
+
 ## Get started
 
 1. Install dependencies
