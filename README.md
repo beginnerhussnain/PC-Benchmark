@@ -1,14 +1,18 @@
-# Welcome to your Expo app 👋
+<p align="center">
+  <a href="https://github.com/beginnerhussnain/RigAI" target="_blank">
+    <!-- Official React Logo from Devicon CDN -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="100" alt="React Native Logo">
+  </a>
+</p>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<h1 align="center">RigAI</h1>
 
-
-# RigAI
-
-[![React Native](https://img.shields.io/badge/React_Native-Expo_Router-blue?logo=react&style=flat-square)](https://reactnative.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?logo=typescript&style=flat-square)](https://www.typescriptlang.org/)
-[![Supabase](https://img.shields.io/badge/Backend-Supabase-green?logo=supabase&style=flat-square)](https://supabase.com/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
+<p align="center">
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-Expo_Router-blue?logo=react&style=flat-square" alt="React Native"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-Strict-blue?logo=typescript&style=flat-square" alt="TypeScript"></a>
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Backend-Supabase-green?logo=supabase&style=flat-square" alt="Supabase"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="License"></a>
+</p>
 
 RigAI is a mobile benchmarking and hardware analysis utility designed to assist PC builders, gamers, and developers in evaluating hardware performance. Built with React Native (Expo), TypeScript, and backed by Supabase, the application calculates synthetic benchmark projections, evaluates game compatibility thresholds, and determines system viability for running quantized local language models directly on mobile.
 
